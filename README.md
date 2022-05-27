@@ -11,7 +11,7 @@ However, I just made a tarball, and you can pick not everything but a couple of 
 Here they are with one command on the Arch and Arch-based distros
 
 ```
-yay -S xfce4-docklike-plugin xfce4-xkb-plugin xfce4-panel-profiles picom-ibhagwan-git
+yay -S xfce4-docklike-plugin xfce4-xkb-plugin xfce4-panel-profiles picom-ibhagwan-git lightdm-slick-greeter
 ```
 
 ## Caution
