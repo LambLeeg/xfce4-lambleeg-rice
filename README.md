@@ -16,4 +16,4 @@ yay -S xfce4-docklike-plugin xfce4-xkb-plugin xfce4-panel-profiles picom-ibhagwa
 
 ## Caution
 
-All you do or make is up to you, it's your responsibility. The great power comes the great responsibility!
+All you do or make is up to you, it's your responsibility. The great power comes with the great responsibility!
