@@ -13,6 +13,7 @@ Here they are with one command on the Arch and Arch-based distros
 ```
 yay -S xfce4-docklike-plugin xfce4-xkb-plugin xfce4-panel-profiles picom-ibhagwan-git lightdm-slick-greeter
 ```
+BTW, you could build this ![picom](https://github.com/pijulius/picom) instead because it has awesome animations and performance
 
 ## Caution
 
